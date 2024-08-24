@@ -3,7 +3,7 @@
 A basic syntax validation tool for Perl programming language. </br>
 
 Validation of basic programming constructs - 
-- Variable assignment
+- Variable assignment (integer, float, string)
 - Looping constructs (while, for)
 - conditional statements (if, if-else)
 
