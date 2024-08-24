@@ -12,8 +12,8 @@ Libraries: PLY (Python Lex-Yacc)
 
 ## Files in this repo:
 
-- validator_lex.py : defines all tokens 
-- validator_yacc.py : defines grammars for the aforementioned programming constructs
+- validation_lex.py : defines all tokens 
+- validation_yacc.py : defines grammars for the aforementioned programming constructs
 
 
 ## Functionality:
